@@ -29,9 +29,9 @@ PRINT
 
 ```
 DEFINE A 6
-EXP (7+A)*3
+EXP (7+A)*4
 PRINT
 ```
 ```
-39.0
+52.0
 ```
